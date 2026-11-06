@@ -1,5 +1,5 @@
 # Deep Research de Crítica — Ramal
---Prueba git
+
 > Contraparte adversarial del research de validación. Objetivo: encontrar la forma en que esto fracasa.
 > Fecha: 14 de septiembre de 2026.
 
